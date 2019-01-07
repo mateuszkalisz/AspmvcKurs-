@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraktycznyKursASPMVC", "PraktycznyKursASPMVC\PraktycznyKursASPMVC.csproj", "{5C74A425-A5FD-4C49-8C23-8DB6C2FA0B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraktycznyKursASPMVC.Tests", "PraktycznyKursASPMVC.Tests\PraktycznyKursASPMVC.Tests.csproj", "{F5CBE7E6-A495-4E41-ABE8-4BA3F70E0C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C74A425-A5FD-4C49-8C23-8DB6C2FA0B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C74A425-A5FD-4C49-8C23-8DB6C2FA0B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C74A425-A5FD-4C49-8C23-8DB6C2FA0B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C74A425-A5FD-4C49-8C23-8DB6C2FA0B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CBE7E6-A495-4E41-ABE8-4BA3F70E0C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CBE7E6-A495-4E41-ABE8-4BA3F70E0C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CBE7E6-A495-4E41-ABE8-4BA3F70E0C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CBE7E6-A495-4E41-ABE8-4BA3F70E0C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D59C10D-3EA1-4E4A-A549-C669BDCE3869}
+	EndGlobalSection
+EndGlobal
