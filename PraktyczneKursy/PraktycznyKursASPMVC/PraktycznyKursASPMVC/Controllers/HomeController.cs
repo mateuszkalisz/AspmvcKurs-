@@ -12,6 +12,7 @@ namespace PraktycznyKursASPMVC.Controllers
         public ActionResult Index()
         {
             // komentarz
+            // pracuje nad funkcjonalnoscia logowania
             return View();
         }
     }
